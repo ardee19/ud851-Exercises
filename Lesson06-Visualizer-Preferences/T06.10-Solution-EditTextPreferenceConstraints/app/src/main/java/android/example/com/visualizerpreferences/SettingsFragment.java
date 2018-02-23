@@ -74,7 +74,7 @@ public class SettingsFragment extends PreferenceFragmentCompat implements
     /**
      * Updates the summary for the preference
      *
-     * @param preference The preference to be updated
+     * @param preference The preference to be updatedv
      * @param value      The value that the preference was updated to
      */
     private void setPreferenceSummary(Preference preference, String value) {
